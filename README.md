@@ -43,3 +43,7 @@ on the good.txt i used:
 - other information
 
 
+## TODO:
+
+- memory optimizations.
+
